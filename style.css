@@ -1,0 +1,30 @@
+header{
+     height: 80px;
+    background-color:navy;
+    display:flex;
+}
+li{
+    color:white;
+    list-style-type:none;
+    padding-left: 20px;
+    font-family: Impact, Haettenschweiler, 'Narrow', sans-serif;
+    font-weight: 100;
+}
+ul{
+    padding:20px 30%;
+    margin:0px;
+    display:flex;
+}
+body{
+    margin:0px;
+    background-image: url('shop.jpeg');
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+a{
+    color:white;
+}
+   
+
